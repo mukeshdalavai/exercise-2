@@ -106,12 +106,17 @@ nav ul li:hover .dropdown-content {
 	content: none;
 }
 .wrap1 .body1 h1{
+	font-weight: normal;
 	font-style: italic;
 	text-decoration: underline;
 	padding-top: 20px;
-	color: #114229;
+	color: #848403;
 	margin: 0px;
     font-family: courier;
+}
+.wrap1 .body1 b{
+	letter-spacing: 2px;
+	color: #4f4f4f;
 }
 .wrap1 ul li a:hover{
 	color:grey;
