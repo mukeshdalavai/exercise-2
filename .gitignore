@@ -79,8 +79,8 @@ local.properties
 # Windows image file caches
 Thumbs.db
 # Folder config file
-Desktop.init
-/home/mukesh/Documents/HTML/ex-2
+Desktop.ini
+/home/mukesh/Documents/HTML/ex-2/humans.txt
 ######################
 # Mac OSX
 ######################
